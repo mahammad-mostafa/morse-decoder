@@ -61,4 +61,4 @@ def decode_message(message)
   result.join(' ')
 end
 
-print decode_message '      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
+puts decode_message '      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
